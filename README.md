@@ -1,5 +1,5 @@
 # rock-paper-scissors-game
-Single page IOS apps trains users to win/lose in Rock Paper Scissors.
+100 Days of SwiftUI - Single page IOS app that trains users to win/lose in Rock Paper Scissors.
 <br>
 <br>
 
